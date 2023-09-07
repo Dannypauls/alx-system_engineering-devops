@@ -1,0 +1,25 @@
+total 84
+drwxr-xr-x 2 root root 4096 Sep  6 17:10 .
+drwxr-xr-x 6 root root  130 Sep  5 09:22 ..
+-rwxr--r-- 1 root root   32 Sep  4 21:18 0-hello_world
+-rwxr--r-- 1 root root   49 Sep  4 22:00 10-no_more_js
+-rwxr--r-- 1 root root   48 Sep  4 21:59 10-no_more_js~
+-rwxr--r-- 1 root root   47 Sep  4 22:00 11-directories
+-rwxr--r-- 1 root root   25 Sep  4 22:01 12-newest_files
+-rwxr--r-- 1 root root   26 Sep  4 22:01 13-unique
+-rwxr--r-- 1 root root   33 Sep  4 22:02 14-findthatword
+-rwxr--r-- 1 root root   41 Sep  4 22:02 15-countthatword
+-rwxr--r-- 1 root root   39 Sep  4 22:03 16-whatsnext
+-rwxr--r-- 1 root root   35 Sep  4 22:03 17-hidethisword
+-rwxr--r-- 1 root root   28 Sep  4 21:21 1-confused_smiley
+-rwxr--r-- 1 root root   28 Sep  5 08:59 2-hellofile
+-rwxr--r-- 1 root root   39 Sep  4 21:23 3-twofiles
+-rwxr--r-- 1 root root   35 Sep  5 09:08 4-lastlines
+-rwxr--r-- 1 root root   35 Sep  4 21:26 5-firstlines
+-rwxr--r-- 1 root root   36 Sep  5 09:09 6-third_line
+-rwxr--r-- 1 root root   81 Sep  6 17:06 7-file
+-rwxr--r-- 1 root root   38 Sep  5 09:19 8-cwd_state
+-rwxr--r-- 1 root root   34 Sep  4 21:38 9-duplicate_last_line
+-rwxr--r-- 1 root root    0 Sep  4 21:41 iacta
+-rw-r--r-- 1 root root    0 Sep  6 17:10 ls_cwd_content
+-rw-r--r-- 1 root root   29 Sep  5 08:56 README.md
